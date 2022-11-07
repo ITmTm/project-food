@@ -42,4 +42,4 @@
 <li>Библиотека <b>axios</b>;</li>
 <li>ES6 Modules;</li>
 <li><b>Babel</b>, <b>Core.js</b> и <b>полифиллы<b/>;</li>
-<li><b>Webpack</b>. Сборка проекта</li>.
+<li><b>Webpack</b>. Сборка проекта.</li>
